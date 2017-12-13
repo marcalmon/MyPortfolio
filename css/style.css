@@ -1,0 +1,13 @@
+/*#redes{
+	position: fixed;
+	left: 0;
+  	top: 200px;
+  	z-index: 2000;
+}*/
+
+
+header{
+	background-image: url(../img/11-macbook-pro.jpg);
+	height: 400px;
+}
+
